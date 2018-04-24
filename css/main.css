@@ -1,0 +1,26 @@
+	
+th{
+	background-color: #604878 !important;
+}
+td, .ac-headers{
+	color:#604878 !important;
+}
+
+.list .list-item{
+	color:#604878 !important;
+}
+.conf-info{
+	list-style-type: none !important;
+}
+
+.conf-card .col-md-4{
+	height: 200px !important;
+}
+
+.error{
+	color: #FF0000 !important;
+}
+
+.success{
+	color: #8CC35E;
+}
